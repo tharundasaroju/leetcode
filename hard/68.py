@@ -50,5 +50,4 @@ def select(words: list[str], maxWidth: int) -> list[str]:
             break
     return selected_words
 
-
 fullJustify(["What","must","be","acknowledgment","shall","be"], 16)
